@@ -23,19 +23,24 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 # Usecase Diagram
-![UseCaseDiagram](https://github.com/user-attachments/assets/026983d7-66e2-49dc-b4aa-194c31eef3fa)
+![UseCaseDiagram1](https://github.com/user-attachments/assets/eeef7236-fa95-4127-9b9b-d65a0728c61d)
+
 
 # Class Diagram 
-![ClassDiagram](https://github.com/user-attachments/assets/9864dfd5-1ee1-4f1a-b6f8-0b8b07de47d9)
+![ClassDiagram](https://github.com/user-attachments/assets/8bbab87a-77bd-4b2e-b4b4-cb8638c3383b)
+
 
 # Sequence Diagram
-![SequenceDiagram](https://github.com/user-attachments/assets/8623edc7-2a1c-4321-b5d5-ddd2e473636c)
+![SequenceDiagram1](https://github.com/user-attachments/assets/73954eb5-82d1-4b03-ac71-335fc1ee7640)
+
 
 # Activity Diagram
-![ActivityDiagram](https://github.com/user-attachments/assets/b3c1c100-ffa8-4a15-9a8f-40d72f5d4fa6)
+![ActivityDiagram1](https://github.com/user-attachments/assets/6eae8490-0a7e-4211-bed4-da8a774b4752)
+
 
 # Communication Diagram
-![CommunicationDiagram](https://github.com/user-attachments/assets/a6e5bf69-3747-4fd6-87d8-d73d2e9e266c)
+![CommunicationDiagram1](https://github.com/user-attachments/assets/d7e27f9e-d4e0-407b-a84a-d290c591a108)
+
 
 # Package Diagram
 ![PackageDiagram](https://github.com/user-attachments/assets/0028c378-f675-4d2b-8ca6-905e2d165ead)
